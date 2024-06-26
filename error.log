@@ -1,0 +1,9 @@
+ERROR:root:Error de red al descargar la imagen 1: 401 Client Error: Unauthorized for url: https://python-course.lat/image-app/images/
+ERROR:root:Error de red al descargar la imagen 1: 401 Client Error: Unauthorized for url: https://python-course.lat/image-app/images/
+ERROR:root:Error de red al descargar la imagen 2: 401 Client Error: Unauthorized for url: https://python-course.lat/image-app/images/
+ERROR:root:Error aplicando transformaciones a la imagen imag_descargadas/imagen_1.jpg: La imagen imag_descargadas/imagen_1.jpg no existe.
+ERROR:root:Error aplicando transformaciones a la imagen imag_descargadas/imagen_2.jpg: La imagen imag_descargadas/imagen_2.jpg no existe.
+ERROR:root:No se encontró el archivo adjunto: imag_descargadas/imagen_1.jpg
+ERROR:root:No se encontró el archivo adjunto: imag_descargadas/imagen_2.jpg
+ERROR:root:Error aplicando transformaciones a la imagen imag_descargadas/imagen_1.jpg: cannot identify image file 'C:\\Users\\Jose Mario\\OneDrive\\Desktop\\entornotarea2\\imag_descargadas\\imagen_1.jpg'
+ERROR:root:Error aplicando transformaciones a la imagen imag_descargadas/imagen_2.jpg: cannot identify image file 'C:\\Users\\Jose Mario\\OneDrive\\Desktop\\entornotarea2\\imag_descargadas\\imagen_2.jpg'
